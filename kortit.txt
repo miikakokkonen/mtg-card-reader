@@ -1,0 +1,143 @@
+[  ]	1	Doomed Necromancer	English	MP	10E - Tenth Edition	black	R	0.95Pkr
+[  ]	1	Dragonskull Summit	English	SP	M10 - Magic 2010	colorless	R	1.52Pkr
+[  ]	2	Sunpetal Grove	English	NM/M	M11 - Magic 2011	colorless	R	1.40Pkr
+[  ]	1	Ajani, Caller of the Pride	English	NM/M	M13 - Magic 2013	white	M	4.00Pkr
+[  ]	1	Dragonskull Summit	English	SP	M13 - Magic 2013	colorless	R	1.52Pkr
+[  ]	1	Odric, Master Tactician	English	SP	M13 - Magic 2013	white	R	0.40Pkr
+[  ]	1	Rancor	English	NM/M	M13 - Magic 2013	green	U	0.70Pkr
+[  ]	1	Rancor	English	SP	M13 - Magic 2013	green	U	0.56Pkr
+[  ]	1	Sunpetal Grove	English	NM/M	M13 - Magic 2013	colorless	R	1.40Pkr
+[  ]	1	Talrand, Sky Summoner	English	MP	M13 - Magic 2013	blue	R	0.30Pkr
+[  ]	1	Grim Return	English	NM/M	M14 - Magic 2014	black	R	0.20Pkr
+[  ]	3	Indestructibility	English	NM/M	M14 - Magic 2014	white	R	0.20Pkr
+[  ]	1	Liliana of the Dark Realms	English	NM/M	M14 - Magic 2014	black	M	5.25Pkr
+[  ]	1	Traumatize	English	NM/M	M14 - Magic 2014	blue	R	0.90Pkr
+[  ]	1	Witchstalker	English	NM/M	M14 - Magic 2014	green	R	0.10Pkr
+[  ]	1	Phyrexian Reclamation	English	SP	ULG - Urza's Legacy	black	U	0.80Pkr
+[  ]	2	Artificer's Intuition	English	NM/M	5DN - Fifth Dawn	blue	R	0.50Pkr
+[  ]	1	Auriok Windwalker	English	NM/M	5DN - Fifth Dawn	white	R	0.10Pkr
+[  ]	1	Condescend	English	SP	5DN - Fifth Dawn	blue	C	0.16Pkr
+[  ]	1	Door to Nothingness	English	SP	5DN - Fifth Dawn	colorless	R	0.48Pkr
+[  ]	1	Plunge into Darkness	English	SP	5DN - Fifth Dawn	black	R	0.72Pkr
+[  ]	3	Birds of Paradise	English	NM/M	RAV - Ravnica: City of Guilds	green	R	3.50Pkr
+[  ]	1	Birds of Paradise	English	SP	RAV - Ravnica: City of Guilds	green	R	2.80Pkr
+[  ]	1	Tolsimir Wolfblood	English	NM/M	RAV - Ravnica: City of Guilds	multicolor	R	0.90Pkr
+[  ]	2	Rhys the Redeemed	English	NM/M	SHM - Shadowmoor	multicolor	R	8.75Pkr
+[  ]	1	Rhys the Redeemed	English	SP	SHM - Shadowmoor	multicolor	R	7.00Pkr
+[  ]	1	Ajani Vengeant	English	NM/M	ALA - Shards of Alara	multicolor	M	2.50Pkr
+[  ]	1	Liege of the Tangle	English	NM/M	SOM - Scars of Mirrodin	green	M	0.90Pkr
+[  ]	2	Slagstorm	English	SP	MBS - Mirrodin Besieged	red	R	0.16Pkr
+[  ]	2	Curse of Stalked Prey	English	NM/M	ISD - Innistrad	red	R	0.05Pkr
+[  ]	1	Devil's Play	English	NM/M	ISD - Innistrad	red	R	0.20Pkr
+[  ]	3	Devil's Play	English	SP	ISD - Innistrad	red	R	0.16Pkr
+[  ]	1	Geist-Honored Monk	English	NM/M	ISD - Innistrad	white	R	0.10Pkr
+[  ]	2	Parallel Lives	English	NM/M	ISD - Innistrad	green	R	5.75Pkr
+[  ]	1	Stromkirk Noble	English	NM/M	ISD - Innistrad	red	R	0.50Pkr
+[  ]	1	Stromkirk Noble	English	SP	ISD - Innistrad	red	R	0.40Pkr
+[  ]	1	Grafdigger's Cage	English	NM/M	DKA - Dark Ascension	colorless	R	4.50Pkr
+[  ]	1	Increasing Devotion	English	NM/M	DKA - Dark Ascension	white	R	0.20Pkr
+[  ]	4	Lingering Souls	English	NM/M	DKA - Dark Ascension	white	U	0.70Pkr
+[  ]	1	Soul of the Harvest	English	NM/M	AVR - Avacyn Restored	green	R	0.20Pkr
+[  ]	1	Vexing Devil	English	SP	AVR - Avacyn Restored	red	R	4.40Pkr
+[  ]	2	Collective Blessing	English	NM/M	RTR - Return to Ravnica	multicolor	R	0.10Pkr
+[  ]	2	Detention Sphere	English	NM/M	RTR - Return to Ravnica	multicolor	R	1.10Pkr
+[  ]	1	Dreadbore	English	NM/M	RTR - Return to Ravnica	multicolor	R	1.80Pkr
+[  ]	1	Dreadbore	English	SP	RTR - Return to Ravnica	multicolor	R	1.44Pkr
+[  ]	1	Epic Experiment	English	SP	RTR - Return to Ravnica	multicolor	M	0.40Pkr
+[  ]	1	Grave Betrayal	English	NM/M	RTR - Return to Ravnica	black	R	0.20Pkr
+[  ]	1	Grave Betrayal	English	SP	RTR - Return to Ravnica	black	R	0.16Pkr
+[  ]	2	Growing Ranks	English	NM/M	RTR - Return to Ravnica	multicolor	R	0.10Pkr
+[  ]	1	Hallowed Fountain	English	NM/M	RTR - Return to Ravnica	colorless	R	5.00Pkr
+[  ]	1	Hallowed Fountain	English	SP	RTR - Return to Ravnica	colorless	R	4.00Pkr
+[  ]	1	Mizzium Mortars	English	SP	RTR - Return to Ravnica	red	R	0.16Pkr
+[  ]	1	Niv-Mizzet, Dracogenius	English	SP	RTR - Return to Ravnica	multicolor	M	0.16Pkr
+[  ]	1	Rakdos, Lord of Riots	English	NM/M	RTR - Return to Ravnica	multicolor	M	0.90Pkr
+[  ]	1	Sphere of Safety	English	SP	RTR - Return to Ravnica	white	U	0.72Pkr
+[  ]	1	Temple Garden	English	NM/M	RTR - Return to Ravnica	colorless	R	6.50Pkr
+[  ]	2	Trostani, Selesnya's Voice	English	NM/M	RTR - Return to Ravnica	multicolor	M	2.50Pkr
+[  ]	1	Angelic Skirmisher	English	NM/M	GTC - Gatecrash	white	R	0.20Pkr
+[  ]	1	Breeding Pool	English	NM/M	GTC - Gatecrash	colorless	R	8.00Pkr
+[  ]	1	Crypt Ghast	English	SP	GTC - Gatecrash	black	R	1.80Pkr
+[  ]	1	Godless Shrine	English	NM/M	GTC - Gatecrash	colorless	R	7.50Pkr
+[  ]	1	Immortal Servitude	English	NM/M	GTC - Gatecrash	multicolor	R	0.20Pkr
+[  ]	1	Merciless Eviction	English	SP	GTC - Gatecrash	multicolor	R	0.40Pkr
+[  ]	1	Mind Grind	English	NM/M	GTC - Gatecrash	multicolor	R	1.10Pkr
+[  ]	1	Prime Speaker Zegana	English	NM/M	GTC - Gatecrash	multicolor	M	1.30Pkr
+[  ]	1	Rapid Hybridization	English	NM/M	GTC - Gatecrash	blue	U	0.50Pkr
+[  ]	1	Skullcrack	English	NM/M	GTC - Gatecrash	red	U	0.80Pkr
+[  ]	1	Stolen Identity	English	NM/M	GTC - Gatecrash	blue	R	0.10Pkr
+[  ]	1	Whispering Madness	English	NM/M	GTC - Gatecrash	multicolor	R	0.20Pkr
+[  ]	1	Advent of the Wurm	English	NM/M	DGM - Dragon's Maze	multicolor	R	0.10Pkr
+[  ]	1	Council of the Absolute	English	NM/M	DGM - Dragon's Maze	multicolor	M	0.70Pkr
+[  ]	1	Gaze of Granite	English	NM/M	DGM - Dragon's Maze	multicolor	R	0.10Pkr
+[  ]	1	Lavinia of the Tenth	English	NM/M	DGM - Dragon's Maze	multicolor	R	0.10Pkr
+[  ]	1	Legion's Initiative	English	NM/M	DGM - Dragon's Maze	multicolor	M	1.20Pkr
+[  ]	1	Notion Thief	English	NM/M	DGM - Dragon's Maze	multicolor	R	0.50Pkr
+[  ]	3	Plasm Capture	English	NM/M	DGM - Dragon's Maze	multicolor	R	0.10Pkr
+[  ]	1	Render Silent	English	SP	DGM - Dragon's Maze	multicolor	R	0.64Pkr
+[  ]	1	Sire of Insanity	English	NM/M	DGM - Dragon's Maze	multicolor	R	0.10Pkr
+[  ]	1	Anger of the Gods	English	NM/M	THS - Theros	red	R	1.10Pkr
+[  ]	1	Bow of Nylea	English	NM/M	THS - Theros	green	R	1.10Pkr
+[  ]	5	Burnished Hart	English	NM/M	THS - Theros	colorless	U	0.20Pkr
+[  ]	1	Colossus of Akros	English	SP	THS - Theros	colorless	R	0.16Pkr
+[  ]	2	Curse of the Swine	English	NM/M	THS - Theros	blue	R	0.20Pkr
+[  ]	3	Daxos of Meletis	English	NM/M	THS - Theros	multicolor	R	0.20Pkr
+[  ]	3	Fabled Hero	English	NM/M	THS - Theros	white	R	0.20Pkr
+[  ]	3	Fleecemane Lion	English	NM/M	THS - Theros	multicolor	R	0.80Pkr
+[  ]	1	Gift of Immortality	English	NM/M	THS - Theros	white	R	0.50Pkr
+[  ]	1	Gift of Immortality	English	SP	THS - Theros	white	R	0.40Pkr
+[  ]	1	Hero's Downfall	English	NM/M	THS - Theros	black	R	1.70Pkr
+[  ]	1	Hythonia the Cruel	English	NM/M	THS - Theros	black	M	0.20Pkr
+[  ]	1	Nylea, God of the Hunt	English	NM/M	THS - Theros	green	M	2.75Pkr
+[  ]	1	Polukranos, World Eater	English	NM/M	THS - Theros	green	M	0.80Pkr
+[  ]	2	Prophet of Kruphix	English	NM/M	THS - Theros	multicolor	R	0.20Pkr
+[  ]	3	Pyxis of Pandemonium	English	NM/M	THS - Theros	colorless	R	0.05Pkr
+[  ]	1	Reaper of the Wilds	English	NM/M	THS - Theros	multicolor	R	0.10Pkr
+[  ]	3	Soldier of the Pantheon	English	NM/M	THS - Theros	white	R	0.10Pkr
+[  ]	2	Spear of Heliod	English	NM/M	THS - Theros	white	R	0.50Pkr
+[  ]	1	Swan Song	English	NM/M	THS - Theros	blue	R	0.90Pkr
+[  ]	3	Sylvan Caryatid	English	NM/M	THS - Theros	green	R	1.60Pkr
+[  ]	1	Temple of Abandon	English	NM/M	THS - Theros	colorless	R	0.50Pkr
+[  ]	1	Temple of Deceit	English	NM/M	THS - Theros	colorless	R	1.30Pkr
+[  ]	4	Temple of Mystery	English	NM/M	THS - Theros	colorless	R	0.80Pkr
+[  ]	2	Temple of Silence	English	NM/M	THS - Theros	colorless	R	1.10Pkr
+[  ]	1	Thoughtseize	English	NM/M	THS - Theros	black	R	10.50Pkr
+[  ]	1	Whip of Erebos	English	NM/M	THS - Theros	black	R	1.10Pkr
+[  ]	2	Ghostly Prison	European	NM/M	CMD - Commander	white	U	1.20Pkr
+[  ]	4	Swords to Plowshares	English	NM/M	DDF - Duel Decks: Elspeth vs. Tezzeret	white	U	0.70Pkr
+[  ]	1	Dakmor Salvage	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	colorless	U	0.80Pkr
+[  ]	1	Doomgape	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	multicolor	R	0.16Pkr
+[  ]	1	Eternal Witness	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	green	U	2.60Pkr
+[  ]	1	Golgari Grave-Troll	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	green	R	2.60Pkr
+[  ]	1	Golgari Thug	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	black	U	2.00Pkr
+[  ]	1	Isochron Scepter	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	colorless	U	1.44Pkr
+[  ]	1	Life from the Loam	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	green	R	6.00Pkr
+[  ]	1	Prophetic Bolt	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	multicolor	R	0.04Pkr
+[  ]	1	Ghostly Prison	English	SP	PC2 - Planechase (2012 Edition)	white	U	1.20Pkr
+[  ]	1	Kor Spiritdancer	English	SP	PC2 - Planechase (2012 Edition)	white	R	1.36Pkr
+[  ]	1	Spirit Mantle	English	SP	PC2 - Planechase (2012 Edition)	white	U	1.12Pkr
+[  ]	1	Three Dreams	English	NM/M	PC2 - Planechase (2012 Edition)	white	R	0.50Pkr
+[  ]	2	Knight of Infamy	English	NM/M	M13 - Magic 2013	black	U	0.02Pkr
+[  ]	1	Sigiled Paladin	English	NM/M	ALA - Shards of Alara	white	U	0.10Pkr
+[  ]	2	Graypelt Refuge	English	NM/M	ZEN - Zendikar	colorless	U	0.20Pkr
+[  ]	1	Inquisitor's Flail	English	NM/M	ISD - Innistrad	colorless	U	0.02Pkr
+[  ]	1	Rogue's Passage	English	NM/M	RTR - Return to Ravnica	colorless	U	0.10Pkr
+[  ]	1	Treasured Find	English	NM/M	RTR - Return to Ravnica	multicolor	U	0.02Pkr
+[  ]	1	Alpha Authority	English	NM/M	GTC - Gatecrash	green	U	0.10Pkr
+[  ]	1	Burning-Tree Emissary	English	NM/M	GTC - Gatecrash	multicolor	U	0.10Pkr
+[  ]	1	Cartel Aristocrat	English	NM/M	GTC - Gatecrash	multicolor	U	0.10Pkr
+[  ]	4	Illness in the Ranks	English	NM/M	GTC - Gatecrash	black	U	0.02Pkr
+[  ]	1	Vizkopa Guildmage	English	NM/M	GTC - Gatecrash	multicolor	U	0.10Pkr
+[  ]	1	Wasteland Viper	English	NM/M	GTC - Gatecrash	green	U	0.02Pkr
+[  ]	2	Debt to the Deathless	English	NM/M	DGM - Dragon's Maze	multicolor	U	0.10Pkr
+[  ]	1	Sin Collector	English	NM/M	DGM - Dragon's Maze	multicolor	U	0.05Pkr
+[  ]	2	Battlewise Hoplite	English	NM/M	THS - Theros	multicolor	U	0.02Pkr
+[  ]	1	Gray Merchant of Asphodel	English	NM/M	THS - Theros	black	C	0.10Pkr
+[  ]	2	Kragma Warcaller	English	NM/M	THS - Theros	multicolor	U	0.02Pkr
+[  ]	1	Prowler's Helm	English	NM/M	THS - Theros	colorless	U	0.02Pkr
+[  ]	1	Ajani's ChosenFOIL	English	NM/M	M14 - Magic 2014	white	R	0.35Pkr
+[  ]	2	FireshriekerFOIL	English	NM/M	M14 - Magic 2014	colorless	U	0.50Pkr
+[  ]	1	Frontline MedicFOIL	English	NM/M	GTC - Gatecrash	white	R	0.10Pkr
+[  ]	1	Sylvan CaryatidFOIL	English	NM/M	THS - Theros	green	R	2.75Pkr
+[  ]	1	Jarad, Golgari Lich LordFOIL	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	multicolor	M	0.88Pkr
+[  ]	1	Niv-Mizzet, the FiremindFOIL	English	SP	DDJ - Duel Decks: Izzet vs. Golgari	multicolor	M	0.80Pkr
